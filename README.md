@@ -1,6 +1,7 @@
 # ECO
 🏛️ ANALYSE DES COMPTES COMMUNAUX EN AFRIQUE (2002-2025)
 <img width="662" height="465" alt="Screenshot_2025-09-22_19-03-34" src="https://github.com/user-attachments/assets/5bca2549-d37e-44ec-9710-9501a85b32ca" />
+<img width="662" height="465" alt="Screenshot_2025-09-22_21-48-16" src="https://github.com/user-attachments/assets/737f93ad-29c0-4ac2-ba43-9d63cce6e451" />
 
 
 # INSTALL REQUIREMENTS 
